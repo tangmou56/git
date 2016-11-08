@@ -1,0 +1,9 @@
+git init
+
+git add ./*.c
+
+git commit -m "projet"
+
+git remote add origin https://github.com/tangmou56/gitspi.git
+
+git push -u origin master
