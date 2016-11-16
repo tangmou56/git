@@ -8,4 +8,10 @@ git remote add origin https://github.com/tangmou56/gitspi.git
 
 git push -u origin master
 
-git pull official master&&&
+git pull official master&&&&&&
+
+  652  git remote rm origin
+  653  git remote -v
+  654  git remote add origin https://github.com/tangmou56/tdalgo.git
+
+rm -rf .git
